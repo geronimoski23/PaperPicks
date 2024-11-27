@@ -7,7 +7,7 @@ The first part of my prototyping journey was creating and populating databases t
 ### Front End Creation
 The second portion of my prototyping journey was to create a card component that would display the data from my notion database into individual cards on framer. I did this by taking a screenshot of the type of card I wanted to design from https://www.prizepicks.com. After finalizing what needed to be displayed on the card, my final card dedsign looked like this and held 8 components:
 
-
+![alt text](final_card_design.png)
 
 1. Player Image
 2. Player Name
